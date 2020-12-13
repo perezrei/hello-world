@@ -1,10 +1,8 @@
-# hello-world
-My first repository
 # Reinaldo Perez Vasquez
 
 ![sc_1_olhp_786px](https://user-images.githubusercontent.com/74242999/102019851-038dec00-3d76-11eb-84e5-b143574429c8.jpg)
 
-
+## hello-world
 
 I am Venezuelan, married, I have a daughter who lives in the United States and I live with my wife and their two children here in Belgium. We arrived in the country 14 months ago fleeing from the political persecution of the Venezuelan dictatorship towards my family. At the end of October 2020, the Belgian government granted us political refugee status.
 
