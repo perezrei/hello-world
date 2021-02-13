@@ -6,7 +6,7 @@
 
 ## My name is Reinaldo Perez Vasquez
 
-I am Venezuelan, married, I live with my wife and their two children here in Belgium I have a daughter too who lives in the United States. We arrived in the country 14 months ago fleeing from the political persecution of the Venezuelan dictatorship towards my family. At the end of October 2020, the Belgian government granted us political refugee status.
+I am Venezuelan, married, I live with my wife and our two kids here in Belgium. I have a daughter too who lives in the United States. We arrived in the country 14 months ago fleeing from the political persecution of the Venezuelan dictatorship towards my family. At the end of October 2020, the Belgian government granted us political refugee status.
 
 I am a Senior Marketing Technician and in the last 15 years I have worked in the area of printed advertising and lately in digital advertising. I have always liked technology. I have experience in creating websites through Adobe Muse, which is actually an interface to create them through graphic design and not codes and I have always felt that I had to prepare myself to work with code but I have let everyday circumstances not allow it.
 
